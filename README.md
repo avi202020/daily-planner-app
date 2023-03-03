@@ -38,7 +38,7 @@ THEN the saved events persist
 
 ### URL
 
-- [https://avi202020.github.io/work-day-scheduler/](https://avi202020.github.io/daily-planner-app/)
+- [https://avi202020.github.io/daily-planner-app/](https://avi202020.github.io/daily-planner-app/)
 
 ### Screenshots
 
