@@ -40,6 +40,12 @@ THEN the saved events persist
 
 - [https://avi202020.github.io/daily-planner-app/](https://avi202020.github.io/daily-planner-app/)
 
+### Github Repo
+
+- [https://github.com/avi202020/daily-planner-app/](https://github.com/avi202020/daily-planner-app/)
+
+
+
 ### Screenshots
 
 ![Screenshot](https://github.com/avi202020/daily-planner-app/blob/main/images/application_demo.png/)
